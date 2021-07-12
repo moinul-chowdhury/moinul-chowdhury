@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moinul-chowdhury
+- 👋 Hi, I’m @moinul-chowdhury and I'm based in Edinburgh, UK 
 - 👀 I’m interested in cloud Engineering and DevOps.
 - 🌱 I’m currently learning DevOps tools mainly focusing on Docker, Kubernetes, GIT, Version Control and AWS cloud services. In addition to that I am also learning
 Python programming and IaC language such as Terraform.
